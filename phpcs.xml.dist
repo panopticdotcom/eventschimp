@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<ruleset name="Custom Standard" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/PHPCSStandards/PHP_CodeSniffer/master/phpcs.xsd">
+  <rule ref="WordPress-Extra" />
+  <rule ref="WordPress-Docs" />
+
+  <config name="minimum_wp_version" value="6.0" />
+
+  <rule ref="Universal.Namespaces.DisallowCurlyBraceSyntax.Forbidden">
+    <severity>0</severity>
+  </rule>
+  <rule ref="Universal.Namespaces.DisallowDeclarationWithoutName.Forbidden">
+    <severity>0</severity>
+  </rule>
+  <rule ref="Universal.Namespaces.OneDeclarationPerFile.MultipleFound">
+    <severity>0</severity>
+  </rule>
+  <rule ref="Squiz.Commenting.FileComment.Missing">
+    <severity>0</severity>
+  </rule>
+  <rule ref="Squiz.Commenting.ClassComment.Missing">
+    <severity>0</severity>
+  </rule>
+  <rule ref="Squiz.Commenting.VariableComment.Missing">
+    <severity>0</severity>
+  </rule>
+  <rule ref="Squiz.Commenting.FunctionComment.Missing">
+    <severity>0</severity>
+  </rule>
+</ruleset>
