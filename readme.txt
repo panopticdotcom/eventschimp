@@ -4,7 +4,7 @@ Tags: mailchimp
 Requires at least: 6.7
 Tested up to: 6.7
 Requires PHP: 7.4
-Stable tag: 1.0.0
+Stable tag: 0.5.0
 License: GPLv2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -22,7 +22,7 @@ Mailchimp® is a registered trademark of The Rocket Science Group.
 
 == Changelog ==
 
-= 1.0.0 2025-04-23 =
+= 0.5.0 2025-04-23 =
 
 **Event Tracking for Mailchimp®**
 

@@ -3,7 +3,7 @@
 Plugin Name: Event Tracking for Mailchimp®
 Plugin URI: https://panopticdotcom.github.io/eventschimp?utm_source=eventschimp&utm_medium=plugin&utm_campaign=v1_0_0
 Description: Track and analyze page view events when subscribers click links in your Mailchimp email campaigns. Leverage the Mailchimp API to collect website visitor behavior and trigger targeted automations based on user engagement. Perfect for improving conversion rates and creating personalized follow-up campaigns. Mailchimp® is a registered trademark of The Rocket Science Group.
-Version: 1.0.0
+Version: 0.5.0
 Author: Panoptic.com
 Author URI: https://panoptic.com/?utm_source=eventschimp&utm_medium=plugin&utm_campaign=v1_0_0
 Text Domain: eventschimp
